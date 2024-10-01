@@ -1,1 +1,17 @@
+{
+  "name": "telegram-webapp-bot-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "vue-tg": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.4.4"
+  }
+}
 
